@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+table{
+    display: flex;
+    justify-content: center;
+}
+p{
+    background-color: black;
+    color: aliceblue;
+    font-size: 20px;
+}
+p:hover{
+    color: red;
+}
+li{
+    text-decoration: underline;
+}
+hr{
+    margin-bottom: 20vh;
+}
+h1{
+    position: relative;
+    bottom: 10vh;
+    right: 10vh;
+}
